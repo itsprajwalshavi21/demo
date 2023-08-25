@@ -1,0 +1,38 @@
+✅Write a code to reverse a number
+✅Write the code to find the Fibonacci series upto the nth term.
+✅Write the code of Greatest Common Divisor
+✅Write a code for the Perfect number
+✅Write a code to check if two Strings are Anagram or not
+✅Write a code to check if the given string is a palindrome or not
+✅Write a code to calculate the frequency of characters in a string
+Write a code to check if two strings match, where one string contains wildcard characters.
+✅Write a code for bubble sort
+How is the merge sort algorithm implemented?
+Write to code to check whether a given year is leap year or not.
+Find non-repeating characters in a string
+Write a code to replace a substring in a string.
+Write a code for Heap sort.
+Write a code to replace each element in an array by its rank in the array
+Write a code to find circular rotation of an array by K positions.
+Write a code to find non repeating elements in an array.
+Write a code to check for the longest palindrome.
+Write a code to find the factorial of a number.
+Write the code to for Armstrong number
+Write a program to find the sum of Natural Numbers using Recursion
+Write a program to add two matrices using multi-dimensional array
+Write a program to find the sum of natural numbers using recursion
+Write a code to check a string is palindrome or not
+Write a program for binary to decimal to conversion
+Write a program to check whether a character is vowel or consonant
+Write a code to find an automorphic number
+Write a code to find the ASCII value of a character
+Write a code to remove all characters from string except alphabets
+Write a code to find the Fibonacci Series using Recursion
+Write a code to Reverse the element of the array
+ Write a code to Sort the element of the array
+ Write a code to Sort the element of the array without sort method
+ Write a code to Replace a Substring in a string
+ Write a code to Remove space from a string
+Write a code to count inversion
+ Write a code to find consecutive largest subsequence
+ Write a code to find Fibonacci Series using Recursion
